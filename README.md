@@ -17,7 +17,7 @@ class About extends Me implements VladimirSim {
     return [
       "TypeScript",
       "JavaScript", // <3
-      "CoffeeScrypt",
+      "CoffeeScript",
       "PHP",
       "JAVA",
       "C++",
