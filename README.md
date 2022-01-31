@@ -7,7 +7,7 @@ class About extends Me implements VladimirSim {
   public function getPersonalInfo(): VladimirSettings {
     return {
        agressive: true,
-       likes: ["cats","TypeScript", "JavaScrypt", "yourself"],
+       likes: ["cats", "TypeScript", "JavaScrypt", "yourself"],
        levelSelfish: 99999999, // It's a joke
        has: ["hands", "brain", "121 IQ"]
     };
